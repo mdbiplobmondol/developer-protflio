@@ -1,0 +1,53 @@
+header{
+    height: 808px;
+    display: flex;
+    background-image: url('/images/banner/banner1.png');
+    justify-content: end;
+    align-items: center;
+}
+.discription{
+    width: 300px;
+}
+.second-part{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+img{
+    width: 50%;
+}
+.right{
+    width: 300px;
+}
+.biplob{
+    text-align: center;
+}
+.img{
+    height: 50px;
+    width:50px;
+}
+.bip{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+    
+}
+.footer{
+    display: flex;
+  gap: 100px;
+  background-color: rgb(156, 38, 127);
+}
+.footer.h3{
+text-align: left;
+
+
+}
+.m{
+    height: 30px;
+    width: 30px;
+}
+.footer input,textarea{
+    margin-bottom: 10px;
+
+}
